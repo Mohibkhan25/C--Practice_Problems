@@ -18,6 +18,7 @@ public class Button{​​​​​
     public void OnClick(){​​​​​
     
         //
+        Console.writeLine("Text cleared!!");
     }​​​​​
 }​​​​​
 public class TextBox{​​​​​
